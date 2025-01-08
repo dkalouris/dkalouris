@@ -1,10 +1,14 @@
 Hi 👋 My name is Dimitris Kalouris
 =========================================================================================================================================
 
-Data Practitioner and Software Engineer
+Data Engineer and Data Scientist
 ---------------------------------------
 
-As a Data Practitioner, I have a passion for machine learning, distributed computing, and working at all stages of the data life-cycle. I have experience in building and deploying ETL applications using Flink and Spark, using Python and Scala as programming languages. I also have skills in AWS, Docker, and Kubernetes, which I used to deploy an Apache Flink application that focused on data preprocessing and high-speed SQL queries. I worked 2 years as a Data Engineer and a Software Developer at Ballista Technology Group, where I also built a compiler and parser using Ocaml, Typescript, and Java. I enjoy tackling complex problems and constantly expanding my knowledge.
+As a Data Practitioner, I have a passion for machine learning, distributed computing, and working at all stages of the data life-cycle. 
+I have worked 3 years as a Data Engineer with multiple clients in different industries where I have collaborated with cross-functional teams to design, optimize and debug data pipelines.
+I have experience in building, deploying and monitoring ETL applications using Flink and Spark using Airflow and AWS and I also worked with Docker and Kubernetes on the cloud. 
+Some of my previous work includes optimizing execution and partitioning for jobs handling TBs of data on Spark and working on developing high-speed queries using Flink. 
+I enjoy tackling complex problems and constantly expanding my knowledge.
 
 *   🌍  I'm based in Greece
 *   ✉️  You can contact me at [dim.kalouris@gmail.com](mailto:dim.kalouris@gmail.com)
